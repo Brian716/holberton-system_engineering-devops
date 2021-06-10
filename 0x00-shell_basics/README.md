@@ -1,0 +1,1 @@
+First script: 0-current_working_directory file will print the path of the CD.
