@@ -9,3 +9,4 @@ Eigth script: 7-movethatfile file will move betty from /tmp to /tmp/holberton.
 Ninth script: 8-firstdelete file will remove betty file from /tmp/holberton.
 Ten script: 9-firstdirdeletion file will remove holberton directory from /tmp.
 Eleven script: ./10-back file will return to the previous working directory.
+Twelve script: 11-lists file will list current, parent and boot directories in that order.
