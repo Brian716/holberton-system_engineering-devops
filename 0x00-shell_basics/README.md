@@ -6,3 +6,4 @@ Fifth script: 4-listmorefiles file will print the list of files, directories and
 Sixth script: 5-listfilesdigitonly file will print the numerical list of file, directories and hidden files in long format within the chosen path.
 Seventh script: 6-firstdirectory file will create a directory called holberton in tmp directory.
 Eigth script: 7-movethatfile file will move betty from /tmp to /tmp/holberton.
+Ninth script: 8-firstdelete file will remove betty from /tmp/holberton.
