@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i -B 3 bin /etc/passwd
+grep -i --before-context=3 root /etc/passwd
