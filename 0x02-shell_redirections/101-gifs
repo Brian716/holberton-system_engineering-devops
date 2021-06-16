@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -Rap | grep -v / | grep .md | cut -d "." -f1
