@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rap | grep -v / | grep .md | cut -d "." -f1 | sort -f
+find . -type f -name "*.gif" -printf '%f\n' | LC_ALL=C sort -f | rev | cut -b 1,2,3,4 --complement | rev
